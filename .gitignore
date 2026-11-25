@@ -1,0 +1,19 @@
+# Dépendances (réinstallables avec `npm install`)
+node_modules/
+
+# Secrets : JAMAIS commités. Voir .env.example
+.env
+.env.*
+!.env.example
+
+# Rapports de tests et logs
+coverage/
+*.log
+npm-debug.log*
+
+# Fichiers système / éditeur
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
