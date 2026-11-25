@@ -1,0 +1,16 @@
+{
+  "name": "facturation-tpe",
+  "version": "0.1.0",
+  "description": "Application de devis et facturation pour artisans, freelances et TPE",
+  "main": "src/server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "author": "Okpsaihtam",
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  }
+}
